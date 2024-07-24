@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # OpenAI API 키 설정
-openai.api_key = 'YOUR_OPENAI_API_KEY'
+openai.api_key = 'org-2iVkOkNUaKQbqMxWWydY64fe'
 
 st.title('OpenAI GPT-3 with Streamlit')
 st.write('이 애플리케이션은 OpenAI GPT-3 모델을 사용하여 텍스트 생성을 수행합니다.')
